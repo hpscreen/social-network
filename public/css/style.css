@@ -1,0 +1,26 @@
+.card-profile{
+    background-color: #fff;
+    color: #232323;
+    padding: 20px 20px;
+}
+
+body {
+    background-color: #f7f7f7;
+}
+
+.navbar-background-color{
+    background-color: #fff !important;
+}
+
+
+.post-textarea{
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.img-circle{
+    border-radius: 50px;
+    width: 52px;
+    height: 52px;
+}
